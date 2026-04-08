@@ -4,4 +4,4 @@ Soy estudiante de la carrera Licenciatura en Sistemas de Información y en mi ti
 
 ☆ Entusiasta del aprendizaje y la innovación tecnológica.  
 ☆ Buscando oportunidades para crecer profesionalmente.  
-☆ Contactame: [victorinacabrera@hotmail.com](mailto:victorinacabrera@hotmail.com)  
+☆ Contactame: [mvictorinacabrera@gmail.com](mailto:mvictorinacabrera@gmail.com)  
