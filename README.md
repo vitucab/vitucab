@@ -6,7 +6,7 @@ Estudiante de Licenciatura en Sistemas | Full Stack Developer˖°.ೃ࿔*:･
 ☆ Buscando oportunidades para crecer profesionalmente.  
 
 ☆ Stack Tecnológico
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=pink)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFB7C5?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-FFB7C5?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-FFB7C5?style=for-the-badge&logo=next.js&logoColor=white)
