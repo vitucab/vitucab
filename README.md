@@ -21,4 +21,6 @@ Estudiante de Licenciatura en Sistemas | Full Stack Developer˖°.ೃ࿔*:･
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=D81B60)](https://linkedin.com/in/maria-victorina-cabrera-50ab92320)
 [![Gmail](https://img.shields.io/badge/Gmail-FFB7C5?style=for-the-badge&logo=gmail&logoColor=D81B60)](mailto:mvictorinacabrera@gmail.com)
-[![Portfolio](https://portfolio-maria-victorina-cabrera.vercel.app/)
+
+☆ Conoce mi portfolio
+https://portfolio-maria-victorina-cabrera.vercel.app/
